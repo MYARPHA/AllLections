@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp21_main\\3 \u043A\u0443\u0440\u0441\\\u041B\u0435\u043A\u0446\u0438\u0438 \u041C\u0414\u041A11.01\\Lection1106\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2071A7-5CFE-4CBA-89CF-C4BA1F72B0F6}|Lection1106\\Lection1106.csproj|c:\\temp\\ispp21_main\\3 \u043A\u0443\u0440\u0441\\\u043B\u0435\u043A\u0446\u0438\u0438 \u043C\u0434\u043A11.01\\lection1106\\lection1106\\studentsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B2071A7-5CFE-4CBA-89CF-C4BA1F72B0F6}|Lection1106\\Lection1106.csproj|solutionrelative:lection1106\\studentsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\ispp21_main\\3 \u043A\u0443\u0440\u0441\\\u041B\u0435\u043A\u0446\u0438\u0438 \u041C\u0414\u041A11.01\\Lection1106\\Lection1106\\Migrations\\20241106111716_AddStudentFK.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lection1106\\Migrations\\20241106111716_AddStudentFK.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2071A7-5CFE-4CBA-89CF-C4BA1F72B0F6}|Lection1106\\Lection1106.csproj|c:\\temp\\ispp21_main\\3 \u043A\u0443\u0440\u0441\\\u043B\u0435\u043A\u0446\u0438\u0438 \u043C\u0434\u043A11.01\\lection1106\\lection1106\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B2071A7-5CFE-4CBA-89CF-C4BA1F72B0F6}|Lection1106\\Lection1106.csproj|solutionrelative:lection1106\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2071A7-5CFE-4CBA-89CF-C4BA1F72B0F6}|Lection1106\\Lection1106.csproj|c:\\temp\\ispp21_main\\3 \u043A\u0443\u0440\u0441\\\u043B\u0435\u043A\u0446\u0438\u0438 \u043C\u0434\u043A11.01\\lection1106\\lection1106\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B2071A7-5CFE-4CBA-89CF-C4BA1F72B0F6}|Lection1106\\Lection1106.csproj|solutionrelative:lection1106\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\ispp21_main\\3 \u043A\u0443\u0440\u0441\\\u041B\u0435\u043A\u0446\u0438\u0438 \u041C\u0414\u041A11.01\\Lection1106\\Lection1106\\Migrations\\20241106111349_AddStudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lection1106\\Migrations\\20241106111349_AddStudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\ispp21_main\\3 \u043A\u0443\u0440\u0441\\\u041B\u0435\u043A\u0446\u0438\u0438 \u041C\u0414\u041A11.01\\Lection1106\\Lection1106\\Migrations\\20241106110954_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lection1106\\Migrations\\20241106110954_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2071A7-5CFE-4CBA-89CF-C4BA1F72B0F6}|Lection1106\\Lection1106.csproj|c:\\temp\\ispp21_main\\3 \u043A\u0443\u0440\u0441\\\u043B\u0435\u043A\u0446\u0438\u0438 \u043C\u0434\u043A11.01\\lection1106\\lection1106\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B2071A7-5CFE-4CBA-89CF-C4BA1F72B0F6}|Lection1106\\Lection1106.csproj|solutionrelative:lection1106\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 492,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp21_main\\3 \u043A\u0443\u0440\u0441\\\u041B\u0435\u043A\u0446\u0438\u0438 \u041C\u0414\u041A11.01\\Lection1106\\Lection1106\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Lection1106\\Models\\Student.cs",
+              "ToolTip": "C:\\Temp\\ispp21_main\\3 \u043A\u0443\u0440\u0441\\\u041B\u0435\u043A\u0446\u0438\u0438 \u041C\u0414\u041A11.01\\Lection1106\\Lection1106\\Models\\Student.cs",
+              "RelativeToolTip": "Lection1106\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:04:42.136Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp21_main\\3 \u043A\u0443\u0440\u0441\\\u041B\u0435\u043A\u0446\u0438\u0438 \u041C\u0414\u041A11.01\\Lection1106\\Lection1106\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "Lection1106\\Models\\Group.cs",
+              "ToolTip": "C:\\Temp\\ispp21_main\\3 \u043A\u0443\u0440\u0441\\\u041B\u0435\u043A\u0446\u0438\u0438 \u041C\u0414\u041A11.01\\Lection1106\\Lection1106\\Models\\Group.cs",
+              "RelativeToolTip": "Lection1106\\Models\\Group.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:04:49.461Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241106111716_AddStudentFK.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp21_main\\3 \u043A\u0443\u0440\u0441\\\u041B\u0435\u043A\u0446\u0438\u0438 \u041C\u0414\u041A11.01\\Lection1106\\Lection1106\\Migrations\\20241106111716_AddStudentFK.cs",
+              "RelativeDocumentMoniker": "Lection1106\\Migrations\\20241106111716_AddStudentFK.cs",
+              "ToolTip": "C:\\Temp\\ispp21_main\\3 \u043A\u0443\u0440\u0441\\\u041B\u0435\u043A\u0446\u0438\u0438 \u041C\u0414\u041A11.01\\Lection1106\\Lection1106\\Migrations\\20241106111716_AddStudentFK.cs",
+              "RelativeToolTip": "Lection1106\\Migrations\\20241106111716_AddStudentFK.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:17:16.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241106111349_AddStudent.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp21_main\\3 \u043A\u0443\u0440\u0441\\\u041B\u0435\u043A\u0446\u0438\u0438 \u041C\u0414\u041A11.01\\Lection1106\\Lection1106\\Migrations\\20241106111349_AddStudent.cs",
+              "RelativeDocumentMoniker": "Lection1106\\Migrations\\20241106111349_AddStudent.cs",
+              "ToolTip": "C:\\Temp\\ispp21_main\\3 \u043A\u0443\u0440\u0441\\\u041B\u0435\u043A\u0446\u0438\u0438 \u041C\u0414\u041A11.01\\Lection1106\\Lection1106\\Migrations\\20241106111349_AddStudent.cs",
+              "RelativeToolTip": "Lection1106\\Migrations\\20241106111349_AddStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:13:49.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241106110954_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp21_main\\3 \u043A\u0443\u0440\u0441\\\u041B\u0435\u043A\u0446\u0438\u0438 \u041C\u0414\u041A11.01\\Lection1106\\Lection1106\\Migrations\\20241106110954_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Lection1106\\Migrations\\20241106110954_InitialCreate.cs",
+              "ToolTip": "C:\\Temp\\ispp21_main\\3 \u043A\u0443\u0440\u0441\\\u041B\u0435\u043A\u0446\u0438\u0438 \u041C\u0414\u041A11.01\\Lection1106\\Lection1106\\Migrations\\20241106110954_InitialCreate.cs",
+              "RelativeToolTip": "Lection1106\\Migrations\\20241106110954_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:09:54.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsDbContext.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp21_main\\3 \u043A\u0443\u0440\u0441\\\u041B\u0435\u043A\u0446\u0438\u0438 \u041C\u0414\u041A11.01\\Lection1106\\Lection1106\\StudentsDbContext.cs",
+              "RelativeDocumentMoniker": "Lection1106\\StudentsDbContext.cs",
+              "ToolTip": "C:\\Temp\\ispp21_main\\3 \u043A\u0443\u0440\u0441\\\u041B\u0435\u043A\u0446\u0438\u0438 \u041C\u0414\u041A11.01\\Lection1106\\Lection1106\\StudentsDbContext.cs*",
+              "RelativeToolTip": "Lection1106\\StudentsDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:01:27.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp21_main\\3 \u043A\u0443\u0440\u0441\\\u041B\u0435\u043A\u0446\u0438\u0438 \u041C\u0414\u041A11.01\\Lection1106\\Lection1106\\Program.cs",
+              "RelativeDocumentMoniker": "Lection1106\\Program.cs",
+              "ToolTip": "C:\\Temp\\ispp21_main\\3 \u043A\u0443\u0440\u0441\\\u041B\u0435\u043A\u0446\u0438\u0438 \u041C\u0414\u041A11.01\\Lection1106\\Lection1106\\Program.cs",
+              "RelativeToolTip": "Lection1106\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:58:58.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 489,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cdbdee54-b399-484b-b763-db2c3393d646}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
