@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "V:\\ispp35\\Lection8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7161039D-3162-4E69-875D-4F8E47E5B8E7}|Lection8\\Lection8.csproj|v:\\ispp35\\lection8\\lection8\\gamesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7161039D-3162-4E69-875D-4F8E47E5B8E7}|Lection8\\Lection8.csproj|solutionrelative:lection8\\gamesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7161039D-3162-4E69-875D-4F8E47E5B8E7}|Lection8\\Lection8.csproj|V:\\ispp35\\Lection8\\lection8\\gamesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7161039D-3162-4E69-875D-4F8E47E5B8E7}|Lection8\\Lection8.csproj|solutionrelative:lection8\\gamesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7161039D-3162-4E69-875D-4F8E47E5B8E7}|Lection8\\Lection8.csproj|V:\\ispp35\\Lection8\\lection8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7161039D-3162-4E69-875D-4F8E47E5B8E7}|Lection8\\Lection8.csproj|solutionrelative:lection8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7161039D-3162-4E69-875D-4F8E47E5B8E7}|Lection8\\Lection8.csproj|V:\\ispp35\\Lection8\\lection8\\gamesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7161039D-3162-4E69-875D-4F8E47E5B8E7}|Lection8\\Lection8.csproj|solutionrelative:lection8\\gamesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7161039D-3162-4E69-875D-4F8E47E5B8E7}|Lection8\\Lection8.csproj|V:\\ispp35\\Lection8\\lection8\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7161039D-3162-4E69-875D-4F8E47E5B8E7}|Lection8\\Lection8.csproj|solutionrelative:lection8\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7161039D-3162-4E69-875D-4F8E47E5B8E7}|Lection8\\Lection8.csproj|V:\\ispp35\\Lection8\\lection8\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7161039D-3162-4E69-875D-4F8E47E5B8E7}|Lection8\\Lection8.csproj|solutionrelative:lection8\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GamesForm.cs",
+              "DocumentMoniker": "V:\\ispp35\\Lection8\\Lection8\\GamesForm.cs",
+              "RelativeDocumentMoniker": "Lection8\\GamesForm.cs",
+              "ToolTip": "V:\\ispp35\\Lection8\\Lection8\\GamesForm.cs",
+              "RelativeToolTip": "Lection8\\GamesForm.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwCsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:30:05.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GamesForm.Designer.cs",
+              "DocumentMoniker": "V:\\ispp35\\Lection8\\Lection8\\GamesForm.Designer.cs",
+              "RelativeDocumentMoniker": "Lection8\\GamesForm.Designer.cs",
+              "ToolTip": "V:\\ispp35\\Lection8\\Lection8\\GamesForm.Designer.cs",
+              "RelativeToolTip": "Lection8\\GamesForm.Designer.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:49:46.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "V:\\ispp35\\Lection8\\Lection8\\Category.cs",
+              "RelativeDocumentMoniker": "Lection8\\Category.cs",
+              "ToolTip": "V:\\ispp35\\Lection8\\Lection8\\Category.cs",
+              "RelativeToolTip": "Lection8\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:28:43.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "V:\\ispp35\\Lection8\\Lection8\\Game.cs",
+              "RelativeDocumentMoniker": "Lection8\\Game.cs",
+              "ToolTip": "V:\\ispp35\\Lection8\\Lection8\\Game.cs",
+              "RelativeToolTip": "Lection8\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:28:04.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GamesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "V:\\ispp35\\Lection8\\Lection8\\GamesForm.cs",
+              "RelativeDocumentMoniker": "Lection8\\GamesForm.cs",
+              "ToolTip": "V:\\ispp35\\Lection8\\Lection8\\GamesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Lection8\\GamesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:26:21.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "V:\\ispp35\\Lection8\\Lection8\\Program.cs",
+              "RelativeDocumentMoniker": "Lection8\\Program.cs",
+              "ToolTip": "V:\\ispp35\\Lection8\\Lection8\\Program.cs",
+              "RelativeToolTip": "Lection8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:28:11.988Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

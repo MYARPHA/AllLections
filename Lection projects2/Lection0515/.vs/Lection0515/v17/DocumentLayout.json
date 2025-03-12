@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0515\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC948206-7DFD-4746-8108-A73B2CEB8172}|Lection0515\\Lection0515.csproj|c:\\users\\kompu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ispp-35\\lection0515\\lection0515\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC948206-7DFD-4746-8108-A73B2CEB8172}|Lection0515\\Lection0515.csproj|solutionrelative:lection0515\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDCFAB5-0146-41AB-944F-4FCDC8908F63}|WpfApp1\\WpfApp1.csproj|c:\\users\\kompu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ispp-35\\lection0515\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4FDCFAB5-0146-41AB-944F-4FCDC8908F63}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDCFAB5-0146-41AB-944F-4FCDC8908F63}|WpfApp1\\WpfApp1.csproj|c:\\users\\kompu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ispp-35\\lection0515\\wpfapp1\\placeholdertextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDCFAB5-0146-41AB-944F-4FCDC8908F63}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\placeholdertextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDCFAB5-0146-41AB-944F-4FCDC8908F63}|WpfApp1\\WpfApp1.csproj|c:\\users\\kompu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ispp-35\\lection0515\\wpfapp1\\placeholdertextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4FDCFAB5-0146-41AB-944F-4FCDC8908F63}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\placeholdertextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDCFAB5-0146-41AB-944F-4FCDC8908F63}|WpfApp1\\WpfApp1.csproj|c:\\users\\kompu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ispp-35\\lection0515\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDCFAB5-0146-41AB-944F-4FCDC8908F63}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDCFAB5-0146-41AB-944F-4FCDC8908F63}|WpfApp1\\WpfApp1.csproj|c:\\users\\kompu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ispp-35\\lection0515\\wpfapp1\\navigationpanel.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{4FDCFAB5-0146-41AB-944F-4FCDC8908F63}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\navigationpanel.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDCFAB5-0146-41AB-944F-4FCDC8908F63}|WpfApp1\\WpfApp1.csproj|c:\\users\\kompu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ispp-35\\lection0515\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4FDCFAB5-0146-41AB-944F-4FCDC8908F63}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDCFAB5-0146-41AB-944F-4FCDC8908F63}|WpfApp1\\WpfApp1.csproj|c:\\users\\kompu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ispp-35\\lection0515\\wpfapp1\\navigationpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4FDCFAB5-0146-41AB-944F-4FCDC8908F63}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\navigationpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0515\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
+              "ToolTip": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0515\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "WpfApp1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-04T11:02:47.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0515\\Lection0515\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lection0515\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0515\\Lection0515\\MainWindow.xaml",
+              "RelativeToolTip": "Lection0515\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-15T11:25:51.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlaceholderTextBox.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0515\\WpfApp1\\PlaceholderTextBox.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\PlaceholderTextBox.xaml.cs",
+              "ToolTip": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0515\\WpfApp1\\PlaceholderTextBox.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\PlaceholderTextBox.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T10:23:51.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlaceholderTextBox.xaml",
+              "DocumentMoniker": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0515\\WpfApp1\\PlaceholderTextBox.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\PlaceholderTextBox.xaml",
+              "ToolTip": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0515\\WpfApp1\\PlaceholderTextBox.xaml",
+              "RelativeToolTip": "WpfApp1\\PlaceholderTextBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-15T10:20:32.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavigationPanel.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0515\\WpfApp1\\NavigationPanel.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\NavigationPanel.xaml.cs",
+              "ToolTip": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0515\\WpfApp1\\NavigationPanel.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\NavigationPanel.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAQwCoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:47:27.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavigationPanel.xaml",
+              "DocumentMoniker": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0515\\WpfApp1\\NavigationPanel.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\NavigationPanel.xaml",
+              "ToolTip": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0515\\WpfApp1\\NavigationPanel.xaml",
+              "RelativeToolTip": "WpfApp1\\NavigationPanel.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-15T09:43:32.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0515\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0515\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:42:56.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0515\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0515\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-15T09:42:56.835Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

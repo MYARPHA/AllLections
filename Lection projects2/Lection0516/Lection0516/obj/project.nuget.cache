@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7t9K76QghGTUX/KWqNp1AtWwuYTozz2bNRDPbiiG04YubFcLF/DTE52YGRq4WrEoK+pXd5hBUhm3MiokE14Crw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kompu\\Desktop\\ISPP-35\\Lection0516\\Lection0516\\Lection0516.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kompu\\.nuget\\packages\\system.speech\\8.0.0\\system.speech.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

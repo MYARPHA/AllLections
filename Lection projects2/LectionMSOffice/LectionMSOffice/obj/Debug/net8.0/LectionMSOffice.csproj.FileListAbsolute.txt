@@ -1,0 +1,17 @@
+C:\Temp\ISPP-35\LectionMSOffice\LectionMSOffice\bin\Debug\net8.0\LectionMSOffice.exe
+C:\Temp\ISPP-35\LectionMSOffice\LectionMSOffice\bin\Debug\net8.0\LectionMSOffice.deps.json
+C:\Temp\ISPP-35\LectionMSOffice\LectionMSOffice\bin\Debug\net8.0\LectionMSOffice.runtimeconfig.json
+C:\Temp\ISPP-35\LectionMSOffice\LectionMSOffice\bin\Debug\net8.0\LectionMSOffice.dll
+C:\Temp\ISPP-35\LectionMSOffice\LectionMSOffice\bin\Debug\net8.0\LectionMSOffice.pdb
+C:\Temp\ISPP-35\LectionMSOffice\LectionMSOffice\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\Temp\ISPP-35\LectionMSOffice\LectionMSOffice\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Temp\ISPP-35\LectionMSOffice\LectionMSOffice\obj\Debug\net8.0\LectionMSOffice.csproj.ResolveComReference.cache
+C:\Temp\ISPP-35\LectionMSOffice\LectionMSOffice\obj\Debug\net8.0\LectionMSOffice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ISPP-35\LectionMSOffice\LectionMSOffice\obj\Debug\net8.0\LectionMSOffice.AssemblyInfoInputs.cache
+C:\Temp\ISPP-35\LectionMSOffice\LectionMSOffice\obj\Debug\net8.0\LectionMSOffice.AssemblyInfo.cs
+C:\Temp\ISPP-35\LectionMSOffice\LectionMSOffice\obj\Debug\net8.0\LectionMSOffice.csproj.CoreCompileInputs.cache
+C:\Temp\ISPP-35\LectionMSOffice\LectionMSOffice\obj\Debug\net8.0\LectionMSOffice.dll
+C:\Temp\ISPP-35\LectionMSOffice\LectionMSOffice\obj\Debug\net8.0\refint\LectionMSOffice.dll
+C:\Temp\ISPP-35\LectionMSOffice\LectionMSOffice\obj\Debug\net8.0\LectionMSOffice.pdb
+C:\Temp\ISPP-35\LectionMSOffice\LectionMSOffice\obj\Debug\net8.0\LectionMSOffice.genruntimeconfig.cache
+C:\Temp\ISPP-35\LectionMSOffice\LectionMSOffice\obj\Debug\net8.0\ref\LectionMSOffice.dll

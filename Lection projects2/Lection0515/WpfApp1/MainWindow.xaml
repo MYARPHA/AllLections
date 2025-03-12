@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="400">
+    <StackPanel>
+        <local:NavigationPanel CurrentPage="50" GoPrevious="NavigationPanel_GoPrevious" GoNext="NavigationPanel_GoNext"/>
+        <local:PlaceholderTextBox Text="12345"/>
+        <Image x:Name="image" Stretch="Uniform" Height="92" Width="265"/>
+        <Border BorderBrush="Black" BorderThickness="1">
+            <InkCanvas x:Name="canvas" Width="300" Height="200"/>
+        </Border>
+    </StackPanel>
+</Window>

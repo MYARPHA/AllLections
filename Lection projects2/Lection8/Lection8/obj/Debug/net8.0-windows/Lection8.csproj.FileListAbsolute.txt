@@ -1,0 +1,16 @@
+V:\ispp35\Lection8\Lection8\bin\Debug\net8.0-windows\Lection8.exe
+V:\ispp35\Lection8\Lection8\bin\Debug\net8.0-windows\Lection8.deps.json
+V:\ispp35\Lection8\Lection8\bin\Debug\net8.0-windows\Lection8.runtimeconfig.json
+V:\ispp35\Lection8\Lection8\bin\Debug\net8.0-windows\Lection8.dll
+V:\ispp35\Lection8\Lection8\bin\Debug\net8.0-windows\Lection8.pdb
+V:\ispp35\Lection8\Lection8\obj\Debug\net8.0-windows\Lection8.csproj.GenerateResource.cache
+V:\ispp35\Lection8\Lection8\obj\Debug\net8.0-windows\Lection8.GeneratedMSBuildEditorConfig.editorconfig
+V:\ispp35\Lection8\Lection8\obj\Debug\net8.0-windows\Lection8.AssemblyInfoInputs.cache
+V:\ispp35\Lection8\Lection8\obj\Debug\net8.0-windows\Lection8.AssemblyInfo.cs
+V:\ispp35\Lection8\Lection8\obj\Debug\net8.0-windows\Lection8.csproj.CoreCompileInputs.cache
+V:\ispp35\Lection8\Lection8\obj\Debug\net8.0-windows\Lection8.dll
+V:\ispp35\Lection8\Lection8\obj\Debug\net8.0-windows\refint\Lection8.dll
+V:\ispp35\Lection8\Lection8\obj\Debug\net8.0-windows\Lection8.pdb
+V:\ispp35\Lection8\Lection8\obj\Debug\net8.0-windows\Lection8.genruntimeconfig.cache
+V:\ispp35\Lection8\Lection8\obj\Debug\net8.0-windows\ref\Lection8.dll
+V:\ispp35\Lection8\Lection8\obj\Debug\net8.0-windows\Lection8.GamesForm.resources

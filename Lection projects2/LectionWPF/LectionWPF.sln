@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LectionWPF", "LectionWPF\LectionWPF.csproj", "{4254D467-11F0-436D-93AB-E3B1361B4340}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavigationProject", "NavigationProject\NavigationProject.csproj", "{40404CE4-54DF-45D0-B0E3-3E1094AE9472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4254D467-11F0-436D-93AB-E3B1361B4340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4254D467-11F0-436D-93AB-E3B1361B4340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4254D467-11F0-436D-93AB-E3B1361B4340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4254D467-11F0-436D-93AB-E3B1361B4340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40404CE4-54DF-45D0-B0E3-3E1094AE9472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40404CE4-54DF-45D0-B0E3-3E1094AE9472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40404CE4-54DF-45D0-B0E3-3E1094AE9472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40404CE4-54DF-45D0-B0E3-3E1094AE9472}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5F13C96-863A-45FE-AEA7-1ACD3CB45926}
+	EndGlobalSection
+EndGlobal

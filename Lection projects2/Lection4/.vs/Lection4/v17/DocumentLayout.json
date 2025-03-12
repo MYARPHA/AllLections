@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "V:\\ispp35\\Lection4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B90CCD26-C065-4A21-BE29-CB088BADA425}|lection4_1\\lection4_1.csproj|v:\\ispp35\\lection4\\lection4_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90CCD26-C065-4A21-BE29-CB088BADA425}|lection4_1\\lection4_1.csproj|solutionrelative:lection4_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0580E4-A676-40F9-BF44-BCBDE5CED83A}|Lection4\\Lection4.csproj|v:\\ispp35\\lection4\\lection4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0580E4-A676-40F9-BF44-BCBDE5CED83A}|Lection4\\Lection4.csproj|solutionrelative:lection4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90CCD26-C065-4A21-BE29-CB088BADA425}|lection4_1\\lection4_1.csproj|v:\\ispp35\\lection4\\lection4_1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90CCD26-C065-4A21-BE29-CB088BADA425}|lection4_1\\lection4_1.csproj|solutionrelative:lection4_1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90CCD26-C065-4A21-BE29-CB088BADA425}|lection4_1\\lection4_1.csproj|v:\\ispp35\\lection4\\lection4_1\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90CCD26-C065-4A21-BE29-CB088BADA425}|lection4_1\\lection4_1.csproj|solutionrelative:lection4_1\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0580E4-A676-40F9-BF44-BCBDE5CED83A}|Lection4\\Lection4.csproj|v:\\ispp35\\lection4\\lection4\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0580E4-A676-40F9-BF44-BCBDE5CED83A}|Lection4\\Lection4.csproj|solutionrelative:lection4\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "V:\\ispp35\\Lection4\\Lection4\\Person.cs",
+              "RelativeDocumentMoniker": "Lection4\\Person.cs",
+              "ToolTip": "V:\\ispp35\\Lection4\\Lection4\\Person.cs",
+              "RelativeToolTip": "Lection4\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:30:21.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "V:\\ispp35\\Lection4\\lection4_1\\Program.cs",
+              "RelativeDocumentMoniker": "lection4_1\\Program.cs",
+              "ToolTip": "V:\\ispp35\\Lection4\\lection4_1\\Program.cs",
+              "RelativeToolTip": "lection4_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T10:16:05.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Color.cs",
+              "DocumentMoniker": "V:\\ispp35\\Lection4\\lection4_1\\Color.cs",
+              "RelativeDocumentMoniker": "lection4_1\\Color.cs",
+              "ToolTip": "V:\\ispp35\\Lection4\\lection4_1\\Color.cs",
+              "RelativeToolTip": "lection4_1\\Color.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T10:45:49.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "V:\\ispp35\\Lection4\\lection4_1\\Person.cs",
+              "RelativeDocumentMoniker": "lection4_1\\Person.cs",
+              "ToolTip": "V:\\ispp35\\Lection4\\lection4_1\\Person.cs",
+              "RelativeToolTip": "lection4_1\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T10:16:31.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "V:\\ispp35\\Lection4\\Lection4\\Program.cs",
+              "RelativeDocumentMoniker": "Lection4\\Program.cs",
+              "ToolTip": "V:\\ispp35\\Lection4\\Lection4\\Program.cs",
+              "RelativeToolTip": "Lection4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T09:44:08.619Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

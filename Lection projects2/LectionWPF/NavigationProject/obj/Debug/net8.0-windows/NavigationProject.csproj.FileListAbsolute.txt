@@ -1,0 +1,7 @@
+C:\Temp\ISPP-35\LectionWPF\NavigationProject\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Temp\ISPP-35\LectionWPF\NavigationProject\obj\Debug\net8.0-windows\Pages\AboutPage.g.cs
+C:\Temp\ISPP-35\LectionWPF\NavigationProject\obj\Debug\net8.0-windows\Pages\MenuPage.g.cs
+C:\Temp\ISPP-35\LectionWPF\NavigationProject\obj\Debug\net8.0-windows\Pages\NewsPage.g.cs
+C:\Temp\ISPP-35\LectionWPF\NavigationProject\obj\Debug\net8.0-windows\App.g.cs
+C:\Temp\ISPP-35\LectionWPF\NavigationProject\obj\Debug\net8.0-windows\NavigationProject_MarkupCompile.cache
+C:\Temp\ISPP-35\LectionWPF\NavigationProject\obj\Debug\net8.0-windows\NavigationProject_MarkupCompile.lref

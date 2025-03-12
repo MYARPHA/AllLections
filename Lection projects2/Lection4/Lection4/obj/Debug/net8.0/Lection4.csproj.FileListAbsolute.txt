@@ -1,0 +1,14 @@
+V:\ispp35\Lection4\Lection4\bin\Debug\net8.0\Lection4.exe
+V:\ispp35\Lection4\Lection4\bin\Debug\net8.0\Lection4.deps.json
+V:\ispp35\Lection4\Lection4\bin\Debug\net8.0\Lection4.runtimeconfig.json
+V:\ispp35\Lection4\Lection4\bin\Debug\net8.0\Lection4.dll
+V:\ispp35\Lection4\Lection4\bin\Debug\net8.0\Lection4.pdb
+V:\ispp35\Lection4\Lection4\obj\Debug\net8.0\Lection4.GeneratedMSBuildEditorConfig.editorconfig
+V:\ispp35\Lection4\Lection4\obj\Debug\net8.0\Lection4.AssemblyInfoInputs.cache
+V:\ispp35\Lection4\Lection4\obj\Debug\net8.0\Lection4.AssemblyInfo.cs
+V:\ispp35\Lection4\Lection4\obj\Debug\net8.0\Lection4.csproj.CoreCompileInputs.cache
+V:\ispp35\Lection4\Lection4\obj\Debug\net8.0\Lection4.dll
+V:\ispp35\Lection4\Lection4\obj\Debug\net8.0\refint\Lection4.dll
+V:\ispp35\Lection4\Lection4\obj\Debug\net8.0\Lection4.pdb
+V:\ispp35\Lection4\Lection4\obj\Debug\net8.0\Lection4.genruntimeconfig.cache
+V:\ispp35\Lection4\Lection4\obj\Debug\net8.0\ref\Lection4.dll

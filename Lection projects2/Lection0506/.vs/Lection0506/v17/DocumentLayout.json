@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0506\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E25E59F-986C-42D2-A1CB-A30F48433583}|Lection0506\\Lection0506.csproj|c:\\users\\kompu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ispp-35\\lection0506\\lection0506\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E25E59F-986C-42D2-A1CB-A30F48433583}|Lection0506\\Lection0506.csproj|solutionrelative:lection0506\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E25E59F-986C-42D2-A1CB-A30F48433583}|Lection0506\\Lection0506.csproj|c:\\users\\kompu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ispp-35\\lection0506\\lection0506\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E25E59F-986C-42D2-A1CB-A30F48433583}|Lection0506\\Lection0506.csproj|solutionrelative:lection0506\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E25E59F-986C-42D2-A1CB-A30F48433583}|Lection0506\\Lection0506.csproj|c:\\users\\kompu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ispp-35\\lection0506\\lection0506\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E25E59F-986C-42D2-A1CB-A30F48433583}|Lection0506\\Lection0506.csproj|solutionrelative:lection0506\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E25E59F-986C-42D2-A1CB-A30F48433583}|Lection0506\\Lection0506.csproj|c:\\users\\kompu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ispp-35\\lection0506\\lection0506\\mydialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E25E59F-986C-42D2-A1CB-A30F48433583}|Lection0506\\Lection0506.csproj|solutionrelative:lection0506\\mydialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E25E59F-986C-42D2-A1CB-A30F48433583}|Lection0506\\Lection0506.csproj|c:\\users\\kompu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ispp-35\\lection0506\\lection0506\\mydialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E25E59F-986C-42D2-A1CB-A30F48433583}|Lection0506\\Lection0506.csproj|solutionrelative:lection0506\\mydialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0506\\Lection0506\\App.xaml",
+              "RelativeDocumentMoniker": "Lection0506\\App.xaml",
+              "ToolTip": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0506\\Lection0506\\App.xaml",
+              "RelativeToolTip": "Lection0506\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-04T11:00:44.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0506\\Lection0506\\MyDialog.xaml.cs",
+              "RelativeDocumentMoniker": "Lection0506\\MyDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0506\\Lection0506\\MyDialog.xaml.cs",
+              "RelativeToolTip": "Lection0506\\MyDialog.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:26:11.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0506\\Lection0506\\MyDialog.xaml",
+              "RelativeDocumentMoniker": "Lection0506\\MyDialog.xaml",
+              "ToolTip": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0506\\Lection0506\\MyDialog.xaml",
+              "RelativeToolTip": "Lection0506\\MyDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-06T06:13:14.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0506\\Lection0506\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lection0506\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0506\\Lection0506\\MainWindow.xaml",
+              "RelativeToolTip": "Lection0506\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-06T05:38:02.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0506\\Lection0506\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lection0506\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kompu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ISPP-35\\Lection0506\\Lection0506\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Lection0506\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:38:00.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

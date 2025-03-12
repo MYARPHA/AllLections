@@ -1,0 +1,14 @@
+C:\Temp\ISPP-35\Lection10\Lection10\bin\Debug\net8.0\Lection10.exe
+C:\Temp\ISPP-35\Lection10\Lection10\bin\Debug\net8.0\Lection10.deps.json
+C:\Temp\ISPP-35\Lection10\Lection10\bin\Debug\net8.0\Lection10.runtimeconfig.json
+C:\Temp\ISPP-35\Lection10\Lection10\bin\Debug\net8.0\Lection10.dll
+C:\Temp\ISPP-35\Lection10\Lection10\bin\Debug\net8.0\Lection10.pdb
+C:\Temp\ISPP-35\Lection10\Lection10\obj\Debug\net8.0\Lection10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ISPP-35\Lection10\Lection10\obj\Debug\net8.0\Lection10.AssemblyInfoInputs.cache
+C:\Temp\ISPP-35\Lection10\Lection10\obj\Debug\net8.0\Lection10.AssemblyInfo.cs
+C:\Temp\ISPP-35\Lection10\Lection10\obj\Debug\net8.0\Lection10.csproj.CoreCompileInputs.cache
+C:\Temp\ISPP-35\Lection10\Lection10\obj\Debug\net8.0\Lection10.dll
+C:\Temp\ISPP-35\Lection10\Lection10\obj\Debug\net8.0\refint\Lection10.dll
+C:\Temp\ISPP-35\Lection10\Lection10\obj\Debug\net8.0\Lection10.pdb
+C:\Temp\ISPP-35\Lection10\Lection10\obj\Debug\net8.0\Lection10.genruntimeconfig.cache
+C:\Temp\ISPP-35\Lection10\Lection10\obj\Debug\net8.0\ref\Lection10.dll
